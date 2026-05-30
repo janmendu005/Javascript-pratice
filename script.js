@@ -18,3 +18,4 @@ console.log(city);
 let country = "USA";
 country = "India";
 console.log(country);
+
